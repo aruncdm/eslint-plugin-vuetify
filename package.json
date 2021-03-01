@@ -37,10 +37,10 @@
     "mocha": "^8.0.1",
     "nyc": "^15.1.0",
     "vue": "^2.6.11",
-    "vuetify": "^2.3.4"
+    "vuetify": "https://github.com/aruncdm/vuetify"
   },
   "peerDependencies": {
     "eslint": "^6.0.0 || ^7.0.0",
-    "vuetify": "^2.0.0"
+    "vuetify": "https://github.com/aruncdm/vuetify"
   }
 }
